@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdirizaks12
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning frontend developer path on scrimba
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me ;
       Twitter   @abdirizaks12
