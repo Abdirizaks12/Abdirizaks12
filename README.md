@@ -5,6 +5,8 @@
 - 📫 How to reach me ;
       Twitter   @abdirizaks12
        Telegram @abdirzak12
+       
+       [![@abdirizaks12's Holopin board](https://holopin.me/abdirizaks12)](https://holopin.io/@abdirizaks12)
 
 <!---
 Abdirizaks12/Abdirizaks12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
