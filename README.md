@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdirizaks12, am a clinician currently in my one year internship. Got interested in learning web development this year to impact myself with skills to build what I can imagine off in the internet,so far so good 👍.
+- 👋 Hi, I’m Abdirizak, a clinician based in kenya, currently am in my one year internship. Got interested in learning web development this year to impact myself with skills to build what I can imagine off in the internet,so far so good 👍.
 - 👀 I’m interested in frontend web development
 - 🌱 SCRIMBA frontend developer career path graduate
 - 💞️ I’m looking to collaborate on web development projects
