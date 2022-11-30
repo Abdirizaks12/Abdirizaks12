@@ -1,9 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I’m Abdirizak, a clinician based in Kenya, currently am in my one year internship. Got interested in learning web development this year to impact myself with skills to build what I can imagine off in the internet. So far so good 👍.</div>  
+### <div align="center">👋Hi. I’m Abdirizak, a clinician based in Kenya, currently am in my one year internship. Got interested in learning web development this year to impact myself with skills to build what I can imagine off in the internet. So far so good 👍.👋</div>  
   
 
 - 👀 I’m interested in frontend web development.  
@@ -85,6 +80,3 @@
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
