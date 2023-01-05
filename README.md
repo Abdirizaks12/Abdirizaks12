@@ -1,4 +1,4 @@
-### <div align="center">👋Hi. I’m Abdirizak, a clinician based in Kenya,Got interested in learning web development last year to impact myself with skills to build what I can imagine off in the internet. So far so good 👍.👋</div>  
+### <div align="center">👋Hi. I’m Abdirizak From kenya,Got interested in learning web development last year to impact myself with skills to build what I can imagine off in the internet. So far so good 👍.👋</div>  
   
 
 - 👀 I’m interested in frontend web development.  
