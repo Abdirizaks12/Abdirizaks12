@@ -1,4 +1,4 @@
-### <div align="center">👋I’m Abdirizak, I Got interested in learning web development to acquire new skills in build what I can imagine off in the internet. So far so good 👍.</div>  
+### <div align="center">👋I’m Abdirizak, Frontend developer trying to make cool web apps on the internet. So far so good 👍.</div>  
   
 
 - 👀 I’m interested in frontend web development.  
